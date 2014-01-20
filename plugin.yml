@@ -1,0 +1,12 @@
+name: KillMobs
+author: jordanneil23
+main: com.jordanneil23.KillMobs.M.KillMobs
+version: 1.0
+softdepend: [PermissionsEx]
+commands:
+  killmobs:
+    description:
+    usage: |
+  kmobs:
+    description:
+    usage: |

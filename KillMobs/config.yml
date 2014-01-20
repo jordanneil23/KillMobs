@@ -1,0 +1,14 @@
+# AutoKill will kill all listed mobs under the Mobs section that are in the provided World.
+KillMobs:
+  AutoKill: false
+  Mobs:
+  - skeleton
+  - zombie
+  - creeper
+  World:
+  - world
+  Permissions:
+    AutoConfig: true
+    OpsOnly: true
+    PermissionsEx: false
+    SuperPerms: false
